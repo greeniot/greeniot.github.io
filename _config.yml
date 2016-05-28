@@ -1,0 +1,44 @@
+# Site settings
+title: "Green Computing"
+description: "Study group of the Studienstiftung des deutschen Volkes in Leysin."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2879d0
+  secondary: 2268b2  
+  secondary-dark: 333
+
+# Team names, education and social links
+people:
+- name: Niki Kilbertus
+  pic: niki-kilbertus
+  education: "MSc in Mathematics"
+  social:
+    - title: github
+      url: https://github.com/nikikilbertus
+    - title: linkedin
+      url: https://de.linkedin.com/in/niki-kilbertus-17b19997
+
+- name: Florian Rappl
+  pic: florian-rappl
+  education: "PhD in Physics"
+  social:
+    - title: xing
+      url: https://xing.com/profile/FlorianRappl2
+    - title: github
+      url: https://github.com/FlorianRappl
+
+# Social networks usernames
+social:
+  - title: github
+    url: https://github.com/greeniot
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Dr. Florian Rappl
+  - line: Heiglhofstr. 11
+  - line: 81377 München
+
+# Build settings
+markdown: kramdown
+permalink: pretty
