@@ -97,6 +97,9 @@ ul.social-buttons li a {
 .green {
   color: #15975b; }
 
+.navbar-default {
+  background-color: #15975b; }
+
 .navbar-default .navbar-brand {
   color: #2879d0; }
 
@@ -129,7 +132,7 @@ ul.social-buttons li a {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #2879d0; }
+  color: #000; }
 
 .navbar-default .navbar-nav>.active>a {
   border-radius: 0;
@@ -157,7 +160,7 @@ ul.social-buttons li a {
 
   .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #222; }
+    background-color: #15975b; }
 
   .navbar-default.navbar-shrink .navbar-brand {
     font-size: 1.5em; } }

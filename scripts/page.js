@@ -1,4 +1,9 @@
 $(function () {
+  var docElem = document.documentElement,
+    header = $('.navbar-fixed-top'),
+    didScroll = false,
+    changeHeaderOn = 240;
+
   $('a.page-scroll').bind('click', function (ev) {
     var hash = this.hash;
     $('html, body').stop().animate({
@@ -7,13 +12,25 @@ $(function () {
     ev.preventDefault();
   });
 
-  // Highlight the top nav as scrolling occurs
-  $('body').scrollspy({
-    target: '.navbar-fixed-top'
-  });
-
   // Closes the Responsive Menu on Menu Item Click
   $('.navbar-collapse ul li a').click(function () {
     $('.navbar-toggle:visible').click();
   });
+
+  window.addEventListener('scroll', function (ev) {
+    if (!didScroll) {
+      didScroll = true;
+      setTimeout(function () {
+        var sy = window.pageYOffset || docElem.scrollTop;
+
+        if (sy >= changeHeaderOn) {
+          header.addClass('navbar-shrink');
+        } else {
+          header.removeClass('navbar-shrink');
+        }
+
+        didScroll = false;
+      }, 250);
+    }
+  }, false);
 });
