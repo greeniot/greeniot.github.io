@@ -1,0 +1,26 @@
+<section id="instructors" class="bg-dark-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading"><a name="instructors" class="anchor"></a>Instructors</h2>
+        <h3 class="section-subheading text-muted">Organizers of the study group.</h3>
+      </div>
+    </div>
+    <div class="row">
+      {% for instructor in site.instructors %}
+      <div class="col-sm-6">
+        <div class="team-member">
+          <img src="/images/instructors/{{ instructor.pic }}.jpg" class="img-responsive img-circle" alt="{{ instructor.name }}">
+          <h4>{{ instructor.name }}</h4>
+          <p class="text-muted">{{ instructor.education }}</p>
+          <ul class="list-inline social-buttons">
+            {% for network in instructor.social %}
+            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

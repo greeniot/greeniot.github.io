@@ -1,0 +1,24 @@
+<section id="hardware" class="bg-light-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading"><a name="hardware" class="anchor"></a>Hardware</h2>
+        <h3 class="section-subheading text-muted">Available devices during the (optional) hands-on sessions.</h3>
+      </div>
+    </div>
+    <div class="row">
+      {% for device in site.devices %}
+      <div class="col-sm-4">
+        <img src="/images/devices/{{ device.pic }}" class="img-responsive" alt="{{ device.name }}">
+        <h4>{{ device.name }} ({{ device.quantity }})</h4>
+        <p class="text-muted">{{ device.type }}</p>
+        <p><i class="fa fa-cog green" aria-hidden="true"></i> {{ device.cpu }}</p>
+        <p><i class="fa fa-database green" aria-hidden="true"></i> {{ device.memory }}</p>
+        <p><i class="fa fa-bolt green" aria-hidden="true"></i> {{ device.voltage }}, {{ device.current }}</p>
+        <p><i class="fa fa-signal green" aria-hidden="true"></i> {{ device.peripherals }}</p>
+        <p><i class="fa fa-code green" aria-hidden="true"></i> {{ device.code }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
