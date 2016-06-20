@@ -9,6 +9,9 @@ collections:
   - references
   - instructors
 
+gems:
+  - jekyll-feed
+
 # Social networks usernames
 social:
   - title: github
