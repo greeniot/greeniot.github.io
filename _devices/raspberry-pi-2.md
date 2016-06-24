@@ -6,7 +6,7 @@ memory: 1024 MB
 peripherals: HDMI, 4x USB, 100 MBit Ethernet, 26x GPIO, 1x I2C
 voltage: 5 V
 current: 800 mA
-quantity: 1
+quantity: 2
 code: C/C++, Python, Node.js
 pic: rpi2.jpg
 ---
