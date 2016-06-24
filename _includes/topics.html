@@ -7,12 +7,17 @@
       </div>
     </div>
     <div class="row">
-      {% for topic in site.topics %}
+      {% assign sorted_pages = (site.topics | sort: 'scheduled') %}
+      {% for topic in sorted_pages %}
       <div class="col-sm-4">
         <h4>{{ topic.title }}</h4>
         <p>{{ topic.description }}</p>
         <p><i class="fa fa-clock-o" aria-hidden="true"></i> {{ topic.scheduled | date_to_long_string }} at {{ topic.scheduled | date: "%H:%M" }}</p>
       </div>
+        {% assign loopindex = forloop.index | minus: 1 | modulo: 3 %}
+        {% if loopindex == 2 %}
+    </div><div class="row">
+        {% endif %}
       {% endfor %}
     </div>
     <div class="row">
