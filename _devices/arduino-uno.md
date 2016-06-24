@@ -6,7 +6,7 @@ memory: 2 kB
 peripherals: 1x SPI, 1x I2C, 14x GPIO
 voltage: 5 V
 current: 20 mA
-quantity: 1
+quantity: 3
 code: C/C++
 pic: arduino.png
 ---
