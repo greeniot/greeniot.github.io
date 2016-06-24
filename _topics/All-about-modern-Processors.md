@@ -12,5 +12,5 @@ literature:
   - Computer-Organization-and-Design
   - Computer-Architecture-A-Quantitative-Approach
   - Inside-the-Machine
-scheduled: 2016-08-15 11:30:00 +2
+scheduled: 2016-08-17 11:30:00 +2
 ---
