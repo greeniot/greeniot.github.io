@@ -30,5 +30,17 @@
         </ul>
       </div>
     </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <h4>Urls</h4>
+        <ul>
+          {% for reference in site.references %}
+          {% if reference.type == "url" %}
+            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {{ author.first | slice:0 }}., {% endfor %} <a href="{{ reference.link }}" target="_blank">{{ reference.title }}</a>.</li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
 </section>
