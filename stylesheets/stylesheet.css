@@ -9,6 +9,15 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+i.fa-ref-book:before {
+  content: "\f02d"; }
+
+i.fa-ref-paper:before {
+  content: "\f1d8"; }
+
+i.fa-ref-url:before {
+  content: "\f0c1"; }
+
 a {
   color: #1e6bb8;
   text-decoration: none; }
