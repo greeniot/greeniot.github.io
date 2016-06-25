@@ -61,7 +61,7 @@ Could you make a circuit that is capable of adding two numbers? Which transistor
 
 ![Transistor Add](/images/survey/transistor-adder.png){: .img-responsive }
 
-Going to more programming related questions we see, that more than half of the participants have never programmed a microcontroller. We are excited that this will be a new experience for so many of the participants.
+Going to more programming related questions we see that more than half of the participants have never programmed a microcontroller. We are excited that this will be a new experience for so many of the participants.
 
 > Have you ever programmed a microcontroller, a pocket computer or an embedded system?
 
