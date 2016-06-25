@@ -27,9 +27,11 @@ title: Home
         {% endfor %}
         <h4>Literature</h4>
         {% for reference in topic.literature %}
-        {% assign source_path = (reference | prepend: '_references/' | append: '.md') %}
+        {% assign parts = reference | split: '|' %}
+        {% assign ref_name = parts[0] %}
+        {% assign source_path = (ref_name | prepend: '_references/' | append: '.md') %}
         {% assign entry = (site.references | where:"path", source_path | first) %}
-        <p><i class="fa fa-ref-{{ entry.type }}" aria-hidden="true"></i> <a href="#references">{{ entry.title }}</a></p>
+        <p><i class="fa fa-ref-{{ entry.type }}" aria-hidden="true"></i> <a href="#references">{{ entry.title }}</a> {{ parts[1] }}</p>
         {% endfor %}
       </div>
     </div>
