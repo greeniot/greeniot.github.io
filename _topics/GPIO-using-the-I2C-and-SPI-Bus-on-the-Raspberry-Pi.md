@@ -9,5 +9,5 @@ questions:
   - What are the differences to the SPI bus?
 literature:
   - High-Performance-Embedded-Computing
-scheduled: 2016-08-17 10:45:00 +2
+scheduled: 2016-08-17 10:45:00
 ---

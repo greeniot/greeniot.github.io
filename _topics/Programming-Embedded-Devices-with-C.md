@@ -10,5 +10,5 @@ questions:
   - What are the greatest challenges using C with embedded devices?
 literature:
   - High-Performance-Embedded-Computing
-scheduled: 2016-08-17 9:00:00 +2
+scheduled: 2016-08-17 9:00:00
 ---

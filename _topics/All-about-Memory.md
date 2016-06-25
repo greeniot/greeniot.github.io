@@ -12,5 +12,5 @@ literature:
   - What-Every-Programmer-Should-Know-About-Memory
   - Computer-Organization-and-Design
   - Computer-Architecture-A-Quantitative-Approach
-scheduled: 2016-08-16 10:15:00 +2
+scheduled: 2016-08-16 10:15:00
 ---
