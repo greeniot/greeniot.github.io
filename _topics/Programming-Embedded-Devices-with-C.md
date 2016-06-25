@@ -1,7 +1,7 @@
 ---
 category: programming
-title: Programming Embedded Devices with C
-description: An overview of the programming techniques required to leverage embedded devices using the C programming language.
+title: "Programming Embedded Devices with C"
+description: "An overview of the programming techniques required to leverage embedded devices using the C programming language."
 questions:
   - What is a pointer from the device's perspective?
   - How can we declare / work with a pointer?

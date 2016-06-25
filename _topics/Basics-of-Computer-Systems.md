@@ -1,7 +1,7 @@
 ---
 category: introduction
-title: Basics of Computer Systems
-description: The fundamental building blocks of almost every computer system, how they work and how they play together.
+title: "Basics of Computer Systems"
+description: "The fundamental building blocks of almost every computer system, how they work and how they play together."
 questions:
   - What are the basic building blocks of a computer system and what is their responsibility?
   - What are those parts made of and how do they work (roughly)?

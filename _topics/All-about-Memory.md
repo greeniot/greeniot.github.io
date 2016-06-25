@@ -1,7 +1,7 @@
 ---
 category: introduction
-title: All about Memory
-description: A closer look on different types of memory and their properties and usages.
+title: "All about Memory"
+description: "A closer look on different types of memory and their properties and usages."
 questions:
   - What kinds of memory are there in a typical computer system?
   - How do they work on a hardware level and what are their properties (volatility, feature size, speed, energy consumption, cost, etc.)?

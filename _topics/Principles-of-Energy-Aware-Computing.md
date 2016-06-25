@@ -1,7 +1,7 @@
 ---
 category: introduction
-title: Principles of Energy-Aware Computing
-description: Introduction to the most important concepts and principles in the area of energy-aware computing.
+title: "Principles of Energy-Aware Computing"
+description: "Introduction to the most important concepts and principles in the area of energy-aware computing."
 questions:
   - Where is energy-aware computing required?
   - Where in a computer is most energy spent?

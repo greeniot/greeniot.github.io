@@ -1,7 +1,7 @@
 ---
 category: cooling
-title: Principles of Hot-Water Cooling
-description: Discussion on the application and realization of hot-water cooling.
+title: "Principles of Hot-Water Cooling"
+description: "Discussion on the application and realization of hot-water cooling."
 questions:
   - Which large systems use this technique?
   - Benefit against ordinary water cooling?

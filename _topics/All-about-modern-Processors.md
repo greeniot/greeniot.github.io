@@ -1,7 +1,7 @@
 ---
 category: introduction
-title: All about modern Processors
-description: A closer look on what is inside a processing unit.
+title: "All about modern Processors"
+description: "A closer look on what is inside a processing unit."
 questions:
   - What are the different parts of a CPU and what are they responsible for?
   - What are the basic limits on execution speed, throughput and power consumption?
