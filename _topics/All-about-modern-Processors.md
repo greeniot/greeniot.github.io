@@ -1,6 +1,6 @@
 ---
 category: introduction
-title: "All about modern Processors"
+title: "All about Processors"
 description: "A closer look on what is inside a processing unit."
 questions:
   - What are the different parts of a CPU and what are they responsible for?
