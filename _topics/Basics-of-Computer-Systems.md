@@ -12,5 +12,5 @@ literature:
   - Computer-Organization-and-Design
   - Computer-Architecture-A-Quantitative-Approach
   - 1408.3821
-scheduled: 2016-08-17 9:00:00 +2
+scheduled: 2016-08-16 9:00:00 +2
 ---
