@@ -1,6 +1,6 @@
 ---
 category: hardware-design
-title: "Dynamic Power Management and Dynamic Voltage Frequency Scaling"
+title: "Dynamic Voltage Frequency Scaling"
 description: ""
 questions:
   - How can DVFS be archieved?
