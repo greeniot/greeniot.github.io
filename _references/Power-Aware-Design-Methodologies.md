@@ -1,7 +1,7 @@
 ---
 type: book
 publisher: 	"Springer Science & Business Media"
-title: "Power Aware Design Methodologies"
+title: "Power-Aware Design Methodologies"
 isbn: 978-0-30648-139-0
 year: 2007
 authors:
