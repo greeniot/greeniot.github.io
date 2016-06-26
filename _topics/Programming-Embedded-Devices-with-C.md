@@ -13,5 +13,5 @@ literature:
   - The-C-Programming
   - Arduino
   - Energia
-scheduled: 2016-08-17 9:00:00 +2
+scheduled: 2016-08-17 9:00:00
 ---

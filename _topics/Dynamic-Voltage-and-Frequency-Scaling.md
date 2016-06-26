@@ -12,5 +12,5 @@ literature:
   - Computer-Architecture-Techniques-For-Power-Efficiency|Ch. 3.1, 3.2, and 3.4
   - Power-efficient-System-Design|Ch. 2
   - 1401.4655v1
-scheduled: 2016-08-18 10:15:00 +2
+scheduled: 2016-08-18 10:15:00
 ---

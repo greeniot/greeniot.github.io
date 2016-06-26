@@ -14,5 +14,5 @@ literature:
   - High-Performance-Embedded-Computing
   - Arduino
   - Energia
-scheduled: 2016-08-17 10:45:00 +2
+scheduled: 2016-08-17 10:45:00
 ---

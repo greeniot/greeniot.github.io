@@ -12,5 +12,5 @@ literature:
   - Computer-Architecture-Techniques-For-Power-Efficiency|Ch. 1 and 5
   - Power-efficient-System-Design|Ch. 1 and 2
   - Low-Power-CMOS-Circuits|Ch. 1 and 3
-scheduled: 2016-08-18 09:00:00 +2
+scheduled: 2016-08-18 09:00:00
 ---

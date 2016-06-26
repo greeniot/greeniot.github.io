@@ -11,5 +11,5 @@ questions:
 literature:
   - Computer-Architecture-Techniques-For-Power-Efficiency
   - High-Performance-Embedded-Computing
-scheduled: 2016-08-15 11:00:00 +2
+scheduled: 2016-08-15 11:00:00
 ---
