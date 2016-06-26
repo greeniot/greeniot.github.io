@@ -10,5 +10,6 @@ questions:
   - Which changes are coming with the Bluetooth 5 standard?
   - How does the WiFi protocol look like?
 literature:
+  - Wireless-Communications-and-Networks|Ch. 13 - 15
 scheduled: 2016-08-22 10:15:00
 ---
