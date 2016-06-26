@@ -1,7 +1,7 @@
 ---
 category: programming
-title: "GPIO using the I2C and SPI Bus on embedded devices"
-description: "Just like computers, embedded devices profit from standardized interfaces for communication and interaction. We will focus on I2C and SPI as two pivotal representatives."
+title: "GPIO, I2C and SPI on embedded devices"
+description: "Embedded devices typically do not only support completely custom output (GPIO), but also profit from standardized interfaces for communication. We will focus on I2C and SPI as two pivotal representatives."
 questions:
   - What makes a pin a GPIO pin?
   - How does the I2C protocol look like? Can the specific implementation be abstracted away to understand the key features of any communication protocol?
