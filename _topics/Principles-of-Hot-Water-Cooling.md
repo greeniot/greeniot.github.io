@@ -10,5 +10,6 @@ questions:
   - Challenges on the hardware / construction side?
 literature:
   - 1309.4887v1
+  - 1502.04025v1
 scheduled: 2016-08-24 10:00:00
 ---
