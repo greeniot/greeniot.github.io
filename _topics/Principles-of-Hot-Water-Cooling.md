@@ -3,8 +3,6 @@ category: cooling
 title: "Principles of Hot-Water Cooling"
 description: "Discussion on the application and realization of hot-water cooling."
 questions:
-  - How much heat do different systems from a small microprocessor to huge supercomputers and server farms produce?
-  - Which cooling approaches are used for various systems and why?
   - Which large systems use hot-water cooling?
   - What is the benefit over ordinary water cooling?
   - Can you quantify the efficiency improvement compared to air cooling?
