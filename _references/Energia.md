@@ -4,5 +4,5 @@ title: "Energia"
 link: http://energia.nu/
 authors:
   - name: Energia
-    first: Open Community Project
+    first: ""
 ---
