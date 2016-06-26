@@ -1,9 +1,10 @@
 ---
 category: iot
 title: "Security in Embedded Computing"
-description: "Everyone talks about the Internet of Things, but most ignore the security implications. This talk discusses the problems and techniques to securely run software on embedded devices."
+description: "Everyone talks about the Internet of Things, but many underestimate the security implications. This talk discusses the problems and techniques to securely run software on embedded devices."
 questions:
-  - What software vulnerabilities exist?
+  - How are embedded devices different from normal computers when it comes to security concerns?
+  - What kinds of software vulnerabilities exist not only in IoT devices but embedded systems in general?
   - How can communication be secured?
   - What are TPM and HSM?
   - What are the differences between a TPM and a HSM?
