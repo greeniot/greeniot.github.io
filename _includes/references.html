@@ -12,7 +12,7 @@
         <ul>
           {% for reference in site.references %}
           {% if reference.type == "book" %}
-            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first | slice:0 }}., {% endif %} {% endfor %} <i>{{ reference.title }}</i> ({{ reference.year }}), {{ reference.publisher }},  {{ reference.isbn }}.</li>
+            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first }}, {% endif %} {% endfor %} <i>{{ reference.title }}</i> ({{ reference.year }}), {{ reference.publisher }},  {{ reference.isbn }}.</li>
           {% endif %}
           {% endfor %}
         </ul>
@@ -24,7 +24,7 @@
         <ul>
           {% for reference in site.references %}
           {% if reference.type == "paper" %}
-            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first | slice:0 }}., {% endif %} {% endfor %} <i>{{ reference.title }}</i> ({{ reference.year }}), <a href="{{ reference.link }}" target="_blank">{{ reference.label }}</a>.</li>
+            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first }}, {% endif %} {% endfor %} <i>{{ reference.title }}</i> ({{ reference.year }}), <a href="{{ reference.link }}" target="_blank">{{ reference.label }}</a>.</li>
           {% endif %}
           {% endfor %}
         </ul>
@@ -36,7 +36,7 @@
         <ul>
           {% for reference in site.references %}
           {% if reference.type == "url" %}
-            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first | slice:0 }}., {% endif %} {% endfor %} <a href="{{ reference.link }}" target="_blank">{{ reference.title }}</a>.</li>
+            <li>{% for author in reference.authors %} <strong>{{ author.name }}</strong>, {% if author.first != "" %} {{ author.first }}, {% endif %} {% endfor %} <a href="{{ reference.link }}" target="_blank">{{ reference.title }}</a>.</li>
           {% endif %}
           {% endfor %}
         </ul>

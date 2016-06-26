@@ -1,8 +1,8 @@
 ---
 type: url
-title: "Energia"
+title: "Energia - An Open-Source Electronics Prototyping Platform"
 link: http://energia.nu/
 authors:
-  - name: Energia
-    first: ""
+  - name: Wessels
+    first: Robert
 ---

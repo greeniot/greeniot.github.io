@@ -10,7 +10,7 @@ questions:
   - How does one get started programming an Arduino or Texas Instruments device using the Arduino or Energia platform?
 literature:
   - High-Performance-Embedded-Computing
-  - The-C-Programming
+  - The-C-Programming-Language
   - Arduino
   - Energia
 scheduled: 2016-08-17 9:00:00
