@@ -3,7 +3,7 @@ category: hardware-design
 title: "Dynamic Voltage and Frequency Scaling"
 description: "A closer look on one of the most important power management aspects, dynamic adjustment of the supplied voltage and the effective clock frequency to current demands."
 questions:
-  - As a reminder and and summary: What role do supply voltage and clock frequency play in terms of power consumption?
+  - What role do supply voltage and clock frequency play in terms of power consumption?
   - How can dynamic voltage and frequency scaling (DVFS) be achieved?
   - What is the benefit that can be obtained in hardware vs. software?
   - What implementation exists on the market?
