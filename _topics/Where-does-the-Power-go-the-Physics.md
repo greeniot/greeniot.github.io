@@ -1,6 +1,6 @@
 ---
 category: hardware-design
-title: "Where does the Power go - the Physics"
+title: "Where Does the Power Go - the Physics"
 description: "To discuss energy efficiency we have to go down to the smallest building blocks - transistors. We explain the physics of CMOS components and thereby discover where most power is consumed."
 questions:
   - What is a transistor, how is it made what are its properties?

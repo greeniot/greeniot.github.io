@@ -1,6 +1,6 @@
 ---
 category: hardware-design
-title: "Power-efficient Memory and Caches"
+title: "Power-Efficient Memory and Caches"
 description: "Energy efficient usage of memory and caches."
 questions:
   - Can you remind us quickly about memory organization and caches?

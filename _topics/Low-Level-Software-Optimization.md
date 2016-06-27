@@ -1,6 +1,6 @@
 ---
 category: computing
-title: "Low-level Software Optimization"
+title: "Low-Level Software Optimization"
 description: "In high performance or energy limited applications every clock cycle counts. We explore how code can be optimized on lower levels."
 questions:
   - Why would most code (e.g. normal if-then-else structures and loops) be slow when executed exactly like it is written?

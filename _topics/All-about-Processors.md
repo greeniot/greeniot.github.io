@@ -1,6 +1,6 @@
 ---
 category: introduction
-title: "All about Processors"
+title: "All About Processors"
 description: "A closer look on what is inside a processing unit and how it works."
 questions:
   - What are the different parts of a typical CPU and what is each of them responsible for?

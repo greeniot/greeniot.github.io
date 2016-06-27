@@ -1,6 +1,6 @@
 ---
 category: programming
-title: "GPIO, I2C and SPI on embedded devices"
+title: "GPIO, I2C, and SPI on Embedded Devices"
 description: "Embedded devices typically do not only support completely custom output (GPIO), but also profit from standardized interfaces for communication. We will focus on I2C and SPI as two pivotal representatives."
 questions:
   - What makes a pin a GPIO pin?

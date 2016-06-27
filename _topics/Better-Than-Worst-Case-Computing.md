@@ -1,6 +1,6 @@
 ---
 category: iot
-title: "Better Than Worst Case Computing"
+title: "Better Than Worst-Case Computing"
 description: "Usually worst-case component specifications are used in component design. Given that most systems operate under typical operating conditions therefore implies a significant performance cost."
 questions:
   - What does worst-case specification mean?
