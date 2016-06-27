@@ -9,7 +9,7 @@ questions:
   - Which optimizations can be performed during compile time?
   - Can we still achieve optimizations during run time?
 literature:
-  - High-Performance Embedded Computing|Ch. 3
+  - High-Performance-Embedded-Computing|Ch. 3
   - Computer-Architecture-A-Quantitative-Approach|Ch. 3
   - Computer-Architecture-Techniques-For-Power-Efficiency|Ch. 3.3
 scheduled: 2016-08-25 11:30:00
