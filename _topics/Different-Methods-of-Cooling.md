@@ -13,5 +13,6 @@ questions:
   - Can you describe the architecture of the cooling solution used by a standard data center?
 literature:
   - Cooling-making-efficient-choices
+  - Cooling-the-Data-Center
 scheduled: 2016-08-24 09:00:00
 ---
