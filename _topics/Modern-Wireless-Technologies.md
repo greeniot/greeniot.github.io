@@ -1,7 +1,7 @@
 ---
 category: iot
 title: "Modern Wireless Technologies"
-description: ""
+description: "An overview over state-of-the-art wireless communication technologies with the focus on security and power-awareness."
 questions:
   - What technologies exists / are currently used?
   - What are their physical properties (e.g., frequency)?

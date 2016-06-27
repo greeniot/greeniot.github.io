@@ -1,7 +1,7 @@
 ---
 category: supercomputing
 title: "From Ethernet to InfiniBand"
-description: ""
+description: "Data centers require high-throughput and low-latency network connections. This talk compares the ordinary Ethernet solution to InfiniBand."
 questions:
   - What is the OSI model?
   - Which Ethernet standards / solutions are currently available?
