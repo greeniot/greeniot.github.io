@@ -8,11 +8,13 @@ questions:
   - How much money and energy is typically spent on cooling large systems?
   - How does air cooling work and how can we improve ordinary air cooling?
   - What kind of water cooling solutions exist?
-  - What is immersive cooling?
+  - What is immersion cooling?
   - Why don't we all use water cooling?
   - Can you describe the architecture of the cooling solution used by a standard data center?
 literature:
   - Cooling-making-efficient-choices
   - Cooling-the-Data-Center
+  - Advances-In High-Performance-Cooling-For-Electronics
+  - An-Examination-of-CPU-Cooling-Technologies
 scheduled: 2016-08-24 09:00:00
 ---

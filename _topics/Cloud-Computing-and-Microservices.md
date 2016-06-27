@@ -11,5 +11,8 @@ questions:
   - Why do microservices leverage cloud computing?
   - Can you show a sample microservice architecture?
 literature:
+  - The-NIST-Definition-of-Cloud-Computing
+  - Microservices
+  - Evaluating-the-Monolithic-and-the-Microservice-Architecture-Pattern
 scheduled: 2016-08-22 09:00:00
 ---

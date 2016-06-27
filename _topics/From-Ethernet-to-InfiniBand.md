@@ -7,7 +7,11 @@ questions:
   - Which Ethernet standards / solutions are currently available?
   - What is InfiniBand?
   - What are the key advantages of InfiniBand over Ethernet?
-  - How much power can be saved by using InfiniBand?
+  - What is RDMA and how can it be utilized?
+  - How much power can be saved (primary and secondary effects) by using InfiniBand?
 literature:
+  - QPACE-2-and-Domain-Decomposition-on-the-Intel-Xeon-Phi
+  - Wireless-Communications-and-Networks|Ch. 3 and 4
+  - InfiniBand-and-10-Gigabit-Ethernet-for-Dummies
 scheduled: 2016-08-22 11:30:00
 ---
