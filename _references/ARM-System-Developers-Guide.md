@@ -2,7 +2,8 @@
 type: book
 publisher: "Morgan Kaufmann"
 title: "ARM System Developer's Guide"
-isbn: 978-1558608740
+link: http://www.sciencedirect.com/science/book/9781558608740
+isbn: 978-1-55860-874-0
 year: 2004
 authors:
   - name: Sloss
