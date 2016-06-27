@@ -12,6 +12,6 @@ literature:
   - Inside-the-Machine
   - Computer-Organization-and-Design
   - Computer-Architecture-A-Quantitative-Approach
-  - 1408.3821
+  - Limits-on-Fundamental-Limits-to-Computation
 scheduled: 2016-08-16 9:00:00
 ---

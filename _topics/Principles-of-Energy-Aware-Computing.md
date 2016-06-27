@@ -11,6 +11,6 @@ questions:
 literature:
   - Computer-Architecture-Techniques-For-Power-Efficiency
   - High-Performance-Embedded-Computing
-  - 1401.0765v1
+  - A-Survey-of-Techniques-For-Improving-Energy-Efficiency-in-Embedded-Computing-Systems
 scheduled: 2016-08-15 11:00:00
 ---

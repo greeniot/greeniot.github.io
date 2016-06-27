@@ -9,8 +9,8 @@ questions:
   - What is the standard water circuit diagram for this setup?
   - What are the biggest challenges on the hardware / construction side?
 literature:
-  - 1309.4887v1
-  - 1502.04025v1
+  - iDataCool-HPC-with-Hot-Water-Cooling-and-Energy-Reuse
+  - QPACE-2-and-Domain-Decomposition-on-the-Intel-Xeon-Phi
   - Cooling-making-efficient-choices
   - Evaluation-of-the-impact-of-Direct-Warm-Water-Cooling
 scheduled: 2016-08-24 10:00:00
