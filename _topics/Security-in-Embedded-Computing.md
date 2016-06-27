@@ -10,6 +10,7 @@ questions:
   - What are the differences between a TPM and a HSM?
   - What other hardware aspects have to be considered to obtain high-security?
 literature:
+  - A-Practical-Guide-to-TPM-2.0
   - Computer-Organization-and-Design
   - Security-As-a-New-Dimension-in-Embedded-System-Design
 scheduled: 2016-08-19 9:00:00
