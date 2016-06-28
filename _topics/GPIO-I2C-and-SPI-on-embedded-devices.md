@@ -5,9 +5,9 @@ description: "Embedded devices typically do not only support completely custom o
 questions:
   - What makes a pin a GPIO pin?
   - How does the I2C protocol look like?
-  - Can the specific implementation be abstracted away to understand the key features of any communication protocol?
   - What is a timing diagram and how can we use one to illustrate the details of the I2C protocol?
-  - Briefly, how does the SPI bus differ?
+  - Can the specific implementation be abstracted away to understand the key features of any communication protocol?
+  - Briefly, how does the SPI bus differ from I2C?
   - How do I2C and SPI compare with respect to speed, prevalence in industry and other aspects?
   - How can we use the GPIO pins of the Raspberry Pi and of an Arduino / a Texas Instruments device?
   - How does one get an Arduino or a Texas Instruments device to talk to a sensor via I2C?
