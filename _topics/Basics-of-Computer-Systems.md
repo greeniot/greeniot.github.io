@@ -4,7 +4,7 @@ title: "Basics of Computer Systems"
 description: "The fundamental building blocks of almost every computer system, a high level description of how they work, what they do and how they play together."
 questions:
   - How can we identify and understand the basic building blocks of a computer system and their responsibilities without going into too much detail?
-  - What are those parts made of in general and, roughly, how do they fulfil their tasks?
+  - What components are those parts made of in general and, roughly, how do they fulfil their tasks?
   - How do these building blocks communicate and work together?
   - Who is in charge, what does the control flow look like and which channels are used to delegate tasks.
   - Roughly, how fast and energy efficient are the various parts or processes in comparison to each other?
