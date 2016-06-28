@@ -3,7 +3,7 @@ category: hardware-design
 title: "Where Does the Power Go - the Physics"
 description: "To discuss energy efficiency we have to go down to the smallest building blocks - transistors. We explain the physics of CMOS components and thereby discover where most power is consumed."
 questions:
-  - What is a transistor, how is it made what are its properties?
+  - What is a transistor in general, how is it made and what are its properties?
   - What are CMOS components, why do we care and what are their characteristics?
   - How do single transistors form logical units and what does the physical layout of a typical CMOS component, e.g., a NAND gate, look like?
   - In which ways is power dissipated in CMOS components?
