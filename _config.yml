@@ -1,4 +1,5 @@
 # Site settings
+future: true
 title: "Green Computing"
 description: "Study group of the Studienstiftung des deutschen Volkes in Leysin."
 
