@@ -1,7 +1,7 @@
 ---
 category: iot
 title: "Cloud Computing and Microservices: Overview and Concepts"
-description: "Everyone talks about the cloud yet most people don't have a proper understand of cloud computing. This talk discusses the most important details and concepts."
+description: "Everyone talks about the cloud yet many people don't have a proper understand of cloud computing. This talk discusses the most important details and concepts."
 questions:
   - What is the definition of cloud computing?
   - What are IaaS, PaaS, and SaaS?
