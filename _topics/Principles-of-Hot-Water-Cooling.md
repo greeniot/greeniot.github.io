@@ -13,5 +13,5 @@ literature:
   - QPACE-2-and-Domain-Decomposition-on-the-Intel-Xeon-Phi
   - Cooling-making-efficient-choices
   - Evaluation-of-the-impact-of-Direct-Warm-Water-Cooling
-scheduled: 2016-08-24 10:00:00
+scheduled: 2016-08-24 10:45:00
 ---
