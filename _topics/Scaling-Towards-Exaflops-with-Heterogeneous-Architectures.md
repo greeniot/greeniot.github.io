@@ -6,8 +6,8 @@ questions:
   - What are the problems of homogeneous systems?
   - What is the anticipated MTBF for an exaflop system?
   - How can heterogeneous architectures help to increase performance?
-  - Which challenges are faced in the design of hetergeneous architectures?
-  - Can you name 2-3 examples of real system exhibiting an heterogeneous architecture?
+  - Which challenges are faced in the design of heterogeneous architectures?
+  - Can you name 2-3 examples of real systems exhibiting an heterogeneous architecture?
   - What problems occur in the implementation of software for such systems?
   - Which components are mixed (and why), which won't be mixed (and why)?
 literature:
