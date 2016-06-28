@@ -7,7 +7,7 @@ questions:
   - What kinds of software vulnerabilities exist not only in IoT devices but embedded systems in general?
   - How can communication be secured?
   - What are TPM and HSM?
-  - What are the differences between a TPM and a HSM?
+  - What are the differences between a TPM and an HSM?
   - What other hardware aspects have to be considered to obtain high-security?
 literature:
   - A-Practical-Guide-to-TPM-2.0
