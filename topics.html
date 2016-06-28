@@ -35,7 +35,7 @@ title: Home
         {% assign ref_name = parts[0] %}
         {% assign source_path = (ref_name | prepend: '_references/' | append: '.md') %}
         {% assign entry = (site.references | where:"path", source_path | first) %}
-        <p><i class="fa fa-ref-{{ entry.type }}" aria-hidden="true"></i> <a href="#references">{{ entry.title }}</a> {{ parts[1] }}</p>
+        <p><i class="fa fa-ref-{{ entry.type }}" aria-hidden="true"></i> <a href="{{ entry.link }}" target="_blank">{{ entry.title }}</a> {{ parts[1] }}</p>
         {% endfor %}
       </div>
     </div>
