@@ -14,5 +14,6 @@ literature:
   - Wireless-Communications-and-Networks|Ch. 13 - 15
   - Overview-of-Wireless-Technologies-for-Organizing-Sensor-Networks
   - A-Study-of-Efficient-Power-Consumption-Wireless-Communication-Techniques
+  - High-Performance-Browser-Networking|Ch.5 - 7
 scheduled: 2016-08-22 10:15:00
 ---
