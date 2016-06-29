@@ -13,5 +13,6 @@ literature:
   - QPACE-2-and-Domain-Decomposition-on-the-Intel-Xeon-Phi
   - Wireless-Communications-and-Networks|Ch. 3 and 4
   - InfiniBand-and-10-Gigabit-Ethernet-for-Dummies
+  - High-Performance-Browser-Networking|Ch. 2 and 3
 scheduled: 2016-08-22 11:30:00
 ---
