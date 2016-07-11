@@ -6,5 +6,5 @@ social:
   - title: github
     url: https://github.com/FlorianRappl
   - title: xing
-    url: https://xing.com/profile/FlorianRappl2
+    url: https://xing.com/profile/Florian_Rappl2
 ---
