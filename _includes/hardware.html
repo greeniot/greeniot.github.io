@@ -18,6 +18,10 @@
         <p><i class="fa fa-signal green" aria-hidden="true"></i> {{ device.peripherals }}</p>
         <p><i class="fa fa-code green" aria-hidden="true"></i> {{ device.code }}</p>
       </div>
+        {% assign loopindex = forloop.index | minus: 1 | modulo: 3 %}
+        {% if loopindex == 2 %}
+    </div><div class="row">
+        {% endif %}
       {% endfor %}
     </div>
   </div>
