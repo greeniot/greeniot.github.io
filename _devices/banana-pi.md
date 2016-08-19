@@ -8,5 +8,5 @@ voltage: 5 V
 current: 400 mA
 quantity: 1
 code: C/C++, Python, Node.js
-pic: bpi.jpg
+pic: bpi.png
 ---
